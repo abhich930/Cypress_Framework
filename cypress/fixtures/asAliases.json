@@ -1,0 +1,7 @@
+{
+  "name": "Bob",
+  "lname": "Marley",
+  "email": "hello@cypress.io",
+  "pwd": "12345qwerty",
+  "comments": "Hi this is a comment"
+}

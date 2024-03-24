@@ -1,0 +1,18 @@
+{
+"table": "#data-table",
+"contact": "#contact-us",
+"login": "#login-portal",
+"buttons": "#button-clicks",
+"todo": "#to-do-list",
+"pom": "#page-object-model div div h1",
+"drodpdown": "#dropdown-checkboxes-radiobuttons",
+"ajax": "#ajax-loader",
+"action": "#actions",
+"scroll_around": "#scrolling-around",
+"pop_up_alerts": "#popup-alerts",
+"iframe": "#iframe",
+"hidden": "#hidden-elements",
+"auto_comp": "#autocomplete-textfield",
+"file_upload": "#file-upload",
+"date": "#datepicker"
+}

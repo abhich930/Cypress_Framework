@@ -1,0 +1,13 @@
+{
+  "name": "Bob",
+  "email": "hello@cypress.io",
+  "pwd": "12345qwerty",
+  "year": 2025,
+  "month": "Sep",
+  "day": 22,
+  "makeupProductName": "Mascara",
+  "storeNmae": "Makeup",
+  "storeNmae1": "Hair Care",
+  "hairProductName": "Seaweed",
+  "multiOrder": ["Pantene Pro-V Conditioner, Classic Care", "Eau Parfumee au The Vert Shampoo", "Curls to straight Shampoo"]
+}
