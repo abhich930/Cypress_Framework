@@ -16,4 +16,5 @@ How to make it work on your machine:
 Dependencies:
 1. Cypress-iframe. --> To handle the iframes on a web app using cypress.
 2. npx. --> To write the Scripts in the package.json file to execte the specific scenarios in cypress.
-3. dotenv. --> To manage the .env file and its variables and execute the env specific tests. 
+3. dotenv. --> To manage the .env file and its variables and execute the env specific tests.
+4. cypress-mochawesome-reporter. --> Generate the HTML reports whenever used the cypress run.
