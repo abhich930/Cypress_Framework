@@ -5,12 +5,13 @@ Benefits:
 Improved Maintainability: Reusable code and clear structure promote long-term project health.
 Enhanced Efficiency: Streamlined workflows save valuable time and resources during testing.
 
-------------------------------THIS IS A WIP, I WILL KEEP ADDING MORE FUNCTIONALITY IN IT AS PER THE PROJECT STRUCTURE--------------------------------------------------------
+---THIS IS A WIP, I WILL KEEP ADDING MORE FUNCTIONALITY IN IT AS PER THE PROJECT STRUCTURE---
 
 How to make it work on your machine:
 1. Clone the repo in your project directory
 2. Install NPM
-3. Install Cypress
+3. npm init --> in project directory.
+4. Install Cypress
 
 Dependencies:
 1. Cypress-iframe. --> To handle the iframes on a web app using cypress.
