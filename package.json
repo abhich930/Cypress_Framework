@@ -4,14 +4,16 @@
   "description": "Cypress Automation Framework",
   "main": "index.js",
   "scripts": {
-    "runWduHeadless": "npx cypress run --spec D:/Cypress_Automation/cypress/e2e/WebDriverUni/*",
-    "runWduHeadless-cypressDash": "npx cypress run --spec D:/Cypress_Automation/cypress/e2e/WebDriverUni/* --record --key 7b81319a-32d0-4583-adb8-4bef4fba12ff"
+    "runWduHeadless": "npx cypress run --spec cypress/e2e/WebDriverUni/*",
+    "runWduHeadless-cypressDash": "npx cypress run --spec cypress/e2e/WebDriverUni/* --record --key 7b81319a-32d0-4583-adb8-4bef4fba12ff",
+    "test-run-with-reports": "npx cypress run --spec cypress/e2e/WebDriverUni/tables.js --headed"
   },
   "author": "Abhishek Chauhan",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^13.7.0",
     "cypress-iframe": "^1.0.1",
+    "cypress-mochawesome-reporter": "^3.8.2",
     "dotenv": "^16.4.5"
   }
 }
